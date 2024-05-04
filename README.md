@@ -2,4 +2,4 @@
 
 ![東大寺](toudaiji.jpg)
 
-![お水取り](omizutori.mp4)
+<video src="omizutori.mp4"></video>
